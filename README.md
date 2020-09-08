@@ -1,2 +1,2 @@
 This repository is belong to [Võ Thanh Hải](https://github.com/haivt0305).
-Under the collaboration of:
+Under the collaboration of: Nguyễn Quốc Việt ( viet3042000 )
